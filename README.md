@@ -2,6 +2,7 @@
 Software: Eclipse Java Oxygen, Version: Oxygen.2 Release (4.7.2)
 Programming Language: Java Language 
 Compiler: jdk-9.0.4
+
 Steps 1 : Initialisation
 - Initialise block size(m)=6, array value={0,1,2,3,4,5}. Take input plaintext from the user
 
